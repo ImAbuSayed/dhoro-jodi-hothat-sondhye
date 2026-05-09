@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dhoro-jodi-hothat-sondhye/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dhoro Jodi Hothat Sondhye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dhoro-jodi-hothat-sondhye/) |
+| **Get License** | [Music Rights & Licensing for Dhoro Jodi Hothat Sondhye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dhoro-jodi-hothat-sondhye/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ধরো যদি হঠাৎ সন্ধ্যে নামে এই মনের ঘরে
+> অচিন কোনো মায়ার টানে আমায় রেখো আপন করে
+> নিঝুম রাতের এই বাতাসে শুনবো আমি তোমার ডাক
+> অচিন সেই প্রেমের জাদুই জীবন জুড়ে মিশে থাক
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
