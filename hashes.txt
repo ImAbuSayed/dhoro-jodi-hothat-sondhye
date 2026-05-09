@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dhoro Jodi Hothat Sondhye
+
+This log tracks the cryptographic history and versioning for the song **Dhoro Jodi Hothat Sondhye** (dhoro-jodi-hothat-sondhye).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T04:23:48.662892 | `v1` | `c9e9ac2c1f24bc06905a5c686042084e109acf5937d695a3db2892741d765baf` | `424b09606005558bf48f3d5829067e0c4afa217b92663317985b8872b6c27a55` | `2026-05-10_dhoro-jodi-hothat-sondhye-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
